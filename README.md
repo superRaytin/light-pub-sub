@@ -1,10 +1,10 @@
-# simple-pub-sub
-Simple pub/sub for Javascript
+# light-pub-sub
+Light pub/sub library for Javascript
 
 # Quick Start
 
 ```js
-const broadcaster = require('simple-pub-sub')
+const broadcaster = require('light-pub-sub')
 
 // subscribe
 broadcaster.on('abc', ({ data }) => {

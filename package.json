@@ -1,5 +1,5 @@
 {
-  "name": "simple-pub-sub",
+  "name": "light-pub-sub",
   "version": "0.1.0",
   "description": "Simple pub/sub for Javascript",
   "main": "src/index.js",
