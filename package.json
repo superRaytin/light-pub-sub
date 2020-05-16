@@ -1,0 +1,14 @@
+{
+  "name": "simple-pub-sub",
+  "version": "0.1.0",
+  "description": "Simple pub/sub for Javascript",
+  "main": "src/index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/superRaytin/simple-pub-sub",
+  "repository": "https://github.com/superRaytin/simple-pub-sub",
+  "keywords": [
+    "pub",
+    "sub"
+  ],
+  "author": "Leon Shi"
+}
